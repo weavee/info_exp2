@@ -226,14 +226,4 @@ if __name__ == '__main__':
     # 遍历文件夹并处理图片
     traverse_folders(root_folder_path)
 
-    #text.clear
-    # while(1):
-    #     imagedata = open("img_“把握时机”：团结一致、姐妹互助_1.jpg", 'rb').read()
-    #     text = [{"role": "user", "content": str(base64.b64encode(imagedata), 'utf-8'), "content_type": "image"}]
-    #     Input = "请从对象、环境、场景、人物等多角度详细描述这个图片，提取图片的主要特征，50字到100字"  # prompt
-    #     question = checklen(getText("user",Input))
-    #     answer = ""
-    #     main(appid, api_key, api_secret, imageunderstanding_url, question)
-    #     getText("assistant", answer)
-        # print(str(text))
 
